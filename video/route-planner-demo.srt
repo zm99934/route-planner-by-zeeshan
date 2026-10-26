@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,379
+Route Planner by Zeeshan: delivery routes on real roads.
+
+2
+00:00:05,429 --> 00:00:12,521
+Add your vehicles: type, capacity, shift times, breaks and costs.
+
+3
+00:00:12,571 --> 00:00:19,664
+Add your stops, or upload a CSV file from Excel.
+
+4
+00:00:19,714 --> 00:00:26,236
+Every cell is checked before planning.
+
+5
+00:00:26,286 --> 00:00:32,807
+Plan the Routes: the best order for each vehicle, on real road distances.
+
+6
+00:00:32,857 --> 00:00:40,379
+See each route on the map, with km, arrival times and costs.
+
+7
+00:00:40,429 --> 00:00:47,521
+What IF ? Compare a change before you make it.
+
+8
+00:00:47,571 --> 00:00:53,950
+Mid-Day Re-Plan: add urgent stops and plan from where each van is now.
+
+9
+00:00:54,000 --> 00:01:00,950
+Print driver sheets, one page per driver.
+
+10
+00:01:01,000 --> 00:01:07,950
+Try it free: request a test login at zm99934.github.io/route-planner-by-zeeshan

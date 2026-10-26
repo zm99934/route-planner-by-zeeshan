@@ -6,6 +6,12 @@ and checks every plan against your rules before it shows it.
 
 This page shows what the planner does. It holds no program code and no installer.
 
+## Watch the 1-minute demo
+
+<video src="video/route-planner-demo.mp4" controls muted playsinline width="100%"></video>
+
+[Watch the demo video (MP4, 68 seconds, with English subtitles)](video/route-planner-demo.mp4)
+
 ![The start screen](screenshots/1-start-screen.jpg)
 
 ## Who it is for
