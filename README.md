@@ -8,7 +8,7 @@ This page shows what the planner does. It holds no program code and no installer
 
 ## Watch the 1-minute demo
 
-<video src="video/route-planner-demo.mp4" controls muted playsinline width="100%"></video>
+<video src="video/route-planner-demo.mp4" poster="screenshots/3-plan-with-map.jpg" controls muted playsinline width="100%"></video>
 
 [Watch the demo video (MP4, 68 seconds, with English subtitles)](video/route-planner-demo.mp4)
 
