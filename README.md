@@ -55,7 +55,7 @@ This page shows what the planner does. It holds no program code and no installer
 
 Fill in the short form and you will get your personal login by email:
 
-**[Request a test login](FORM-LINK-TO-BE-ADDED)**
+**[Request a test login](https://docs.google.com/forms/d/e/1FAIpQLSccvydDKASJ4l2F1hkGHdX7_rL3U6lDiYqO67w6XQ-9FvHKkA/viewform)**
 
 Please use made-up or public places when you test, not real customer addresses.
 
@@ -63,7 +63,7 @@ Please use made-up or public places when you test, not real customer addresses.
 
 Your feedback shapes the next version. Tell us what was easy, what was confusing, and anything that went wrong:
 
-**[Send feedback](FEEDBACK-FORM-LINK-TO-BE-ADDED)** or write to **CONTACT-EMAIL-TO-BE-ADDED**
+**[Send feedback](https://forms.gle/5JAh7uf1Xzhm87Su9)** or write to **[route.planner.zeeshan@gmail.com](mailto:route.planner.zeeshan@gmail.com)**
 
 ## Status
 
